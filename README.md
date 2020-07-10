@@ -45,5 +45,8 @@ Cat and Dog. This data set contain total of 25000 examples (including training ,
 <img src="https://user-images.githubusercontent.com/61901749/87148572-42ea7500-c2cc-11ea-87cc-1e49ce68ce6d.jpg" width=350>         <img src="https://user-images.githubusercontent.com/61901749/87148574-43830b80-c2cc-11ea-85ba-1d4ecb4dd9e0.jpg" width=350>
 
 #### Dog
+<img src="https://user-images.githubusercontent.com/61901749/87149066-30bd0680-c2cd-11ea-8004-16209e292913.jpg" width=350>         <img src="https://user-images.githubusercontent.com/61901749/87149071-3286ca00-c2cd-11ea-998c-606afa00d1f3.jpg" width=350>
+<img src="https://user-images.githubusercontent.com/61901749/87149075-331f6080-c2cd-11ea-91f3-2f7cda33fda8.jpg" width=350>         <img src="https://user-images.githubusercontent.com/61901749/87149079-33b7f700-c2cd-11ea-958e-3aff1e6e6ffc.jpg" width=350>
 
 
+ ## MODEL ACCURACY : 72.80%
