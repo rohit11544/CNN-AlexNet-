@@ -41,3 +41,9 @@ Cat and Dog. This data set contain total of 25000 examples (including training ,
 
 ## preview of this data set
 #### Cat
+<img src="https://user-images.githubusercontent.com/61901749/87148566-40881b00-c2cc-11ea-9ddf-b9fca5b03845.jpg" width=350>         <img src="https://user-images.githubusercontent.com/61901749/87148571-4251de80-c2cc-11ea-9b7d-931c95151a72.jpg" width=350>
+<img src="https://user-images.githubusercontent.com/61901749/87148572-42ea7500-c2cc-11ea-87cc-1e49ce68ce6d.jpg" width=350>         <img src="https://user-images.githubusercontent.com/61901749/87148574-43830b80-c2cc-11ea-85ba-1d4ecb4dd9e0.jpg" width=350>
+
+#### Dog
+
+
